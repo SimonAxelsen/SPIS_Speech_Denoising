@@ -1,0 +1,9 @@
+gradio>=4.0.0
+librosa
+scipy
+numpy
+piper-tts
+onnxruntime
+tensorflow-cpu
+soundfile
+tqdm
